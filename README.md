@@ -1,5 +1,4 @@
 ### 启动
-cd my-f-app  
 npm start
 
 ### 在React教程的基础上，完成了性能优化部分
