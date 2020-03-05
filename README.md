@@ -11,11 +11,11 @@ npm start
 6、当无人获胜时，显示一个平局的消息。  
 
 ### 最终效果图
-![reverse](https://github.com/shengshengqi/Tic-tac-toe/raw/master/assets/reverse.png)
+![reverse](https://github.com/shengshengqi/Tic-tac-toe/master/assets/reverse.png)
 
-![win](./assets/win.png)
+![win](https://github.com/shengshengqi/Tic-tac-toe/blob/master/assets/win.png)
 
-![dogfall](./assets/dogfall.png)
+![dogfall](https://github.com/shengshengqi/Tic-tac-toe/blob/master/assets/dogfall.png)
 
 ### 踩坑笔记
 1、`CRA(creat-react-app)` 如果电脑里之前使用过，再次使用的时候可能需要更新。  
