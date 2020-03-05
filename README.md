@@ -11,7 +11,7 @@ npm start
 6、当无人获胜时，显示一个平局的消息。  
 
 ### 最终效果图
-![reverse](https://github.com/shengshengqi/Tic-tac-toe/master/assets/reverse.png)
+![reverse](https://github.com/shengshengqi/Tic-tac-toe/blob/master/assets/reverse.png)
 
 ![win](https://github.com/shengshengqi/Tic-tac-toe/blob/master/assets/win.png)
 
