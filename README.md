@@ -11,7 +11,7 @@ npm start
 6、当无人获胜时，显示一个平局的消息。  
 
 ### 最终效果图
-![reverse](./assets/reverse.png)
+![reverse](https://github.com/shengshengqi/Tic-tac-toe/raw/master/assets/reverse.png)
 
 ![win](./assets/win.png)
 
@@ -36,7 +36,7 @@ npm start
   - 利用`calculateWinner()`函数返回获胜者符号、获胜的三个棋盘格子的编号。
   - 根据获胜格子的编号设置线div距离棋盘的top和left,注意，此时的`game-board`要设置为`position:relative`，因为不设置的情况下position默认为static。线设置为`position: absolute`，absolute属性生成绝对定位的元素，相对于 static 定位以外的第一个父元素进行定位。  
   - 根据获胜格子的编号计算线的长度和旋转角度。
-    - `transform`旋转，`rotate`根据角度旋转，角度可以有多个单位次数使用red，通过Math.atan()可以获得旋转的弧度（如果是负45度就加上PI）。模板语法``rotate${}red``拼接字符串
+    - `transform`旋转，`rotate`根据角度旋转，角度可以有多个单位此处使用red，通过Math.atan()可以获得旋转的弧度（如果是负45度就加上PI）。模板语法 \``rotate${}red`\` 拼接字符串
     - `transformOrigin`定位旋转点，默认从中心点开始旋转
     - `(point =>{return;})(parameter)`立即执行函数
     - 根据坐标计算出线的长度。
